@@ -1,0 +1,2 @@
+# 18-API
+Fiz um curso onde criei uma API usando o Slim Framework em PHP. Aprendi a configurar o CORS para que outras aplicações possam acessar a API de forma segura. Usei o Composer para gerenciar as dependências, incluindo o Illuminate do Laravel para facilitar o trabalho com banco de dados. Também implementei middlewares para organizar as requisições e responder em JSON. Para testar tudo, usei o Postman, que ajudou bastante a validar as chamadas da API. Foi uma experiência prática que me ajudou a entender como construir APIs simples, eficientes e fáceis de consumir.
